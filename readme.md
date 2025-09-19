@@ -10,4 +10,7 @@ Keep a log of all orders placed
 Admin login to view and manage orders (update, refund, complete)
 
 ## Technology
+**Web Framework:** Svelte 5 
+**Database/Auth:** Firbase
+**Payments:** Stripe
 
